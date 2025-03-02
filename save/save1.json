@@ -1,0 +1,90 @@
+{
+    "turn": 2,
+    "agency": "CIA",
+    "countries": {
+        "USA": {
+            "stability": 80,
+            "influence": {
+                "CIA": 50,
+                "Mossad": 5,
+                "MSS": 17,
+                "FSB": 5
+            },
+            "populism_risk": 30,
+            "budget_reward": 15,
+            "capital_reward": 3
+        },
+        "China": {
+            "stability": 90,
+            "influence": {
+                "CIA": 10,
+                "Mossad": 5,
+                "MSS": 60,
+                "FSB": 5
+            },
+            "populism_risk": 20,
+            "budget_reward": 20,
+            "capital_reward": 4
+        },
+        "Russia": {
+            "stability": 75,
+            "influence": {
+                "CIA": 5,
+                "Mossad": 2,
+                "MSS": 10,
+                "FSB": 50
+            },
+            "populism_risk": 40,
+            "budget_reward": 18,
+            "capital_reward": 4
+        },
+        "Israel": {
+            "stability": 85,
+            "influence": {
+                "CIA": 5,
+                "Mossad": 85,
+                "MSS": 5,
+                "FSB": 5
+            },
+            "populism_risk": 15,
+            "budget_reward": 5,
+            "capital_reward": 10
+        }
+    },
+    "budget": 65,
+    "political_capital": 8,
+    "research_points": 3,
+    "visibility": 6,
+    "agents": 2,
+    "agents_used": 0,
+    "visibility_tracker": {
+        "CIA": 20,
+        "Mossad": 17,
+        "MSS": 14,
+        "FSB": 17
+    },
+    "ai_resources": {
+        "Mossad": {
+            "budget": 105,
+            "political_capital": 43,
+            "research_points": 3,
+            "agents": 1,
+            "researched_techs": []
+        },
+        "MSS": {
+            "budget": 20,
+            "political_capital": 7,
+            "research_points": 3,
+            "agents": 2,
+            "researched_techs": []
+        },
+        "FSB": {
+            "budget": 148,
+            "political_capital": 42,
+            "research_points": 3,
+            "agents": 1,
+            "researched_techs": []
+        }
+    },
+    "researched_techs": []
+}

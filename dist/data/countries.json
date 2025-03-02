@@ -1,0 +1,122 @@
+{
+    "USA": {
+        "stability": 80,
+        "influence": {
+            "CIA": 50,
+            "Mossad": 5,
+            "MSS": 10,
+            "FSB": 5
+        },
+        "populism_risk": 30,
+        "budget_reward": 15,
+        "capital_reward": 3
+    },
+    "China": {
+        "stability": 90,
+        "influence": {
+            "CIA": 10,
+            "Mossad": 5,
+            "MSS": 60,
+            "FSB": 5
+        },
+        "populism_risk": 20,
+        "budget_reward": 20,
+        "capital_reward": 4
+    },
+    "Russia": {
+        "stability": 75,
+        "influence": {
+            "CIA": 5,
+            "Mossad": 2,
+            "MSS": 10,
+            "FSB": 50
+        },
+        "populism_risk": 40,
+        "budget_reward": 18,
+        "capital_reward": 4
+    },
+    "Israel": {
+        "stability": 85,
+        "influence": {
+            "CIA": 5,
+            "Mossad": 85,
+            "MSS": 5,
+            "FSB": 5
+        },
+        "populism_risk": 15,
+        "budget_reward": 5,
+        "capital_reward": 10
+    },
+    "France": {
+        "stability": 80,
+        "influence": {
+            "CIA": 10,
+            "Mossad": 5,
+            "MSS": 5,
+            "FSB": 5
+        },
+        "populism_risk": 25,
+        "budget_reward": 12,
+        "capital_reward": 3
+    },
+    "Vietnam": {
+        "stability": 60,
+        "influence": {
+            "CIA": 8,
+            "Mossad": 2,
+            "MSS": 10,
+            "FSB": 2
+        },
+        "populism_risk": 35,
+        "budget_reward": 10,
+        "capital_reward": 2
+    },
+    "Ukraine": {
+        "stability": 70,
+        "influence": {
+            "CIA": 15,
+            "Mossad": 3,
+            "MSS": 5,
+            "FSB": 20
+        },
+        "populism_risk": 30,
+        "budget_reward": 12,
+        "capital_reward": 3
+    },
+    "Brazil": {
+        "stability": 65,
+        "influence": {
+            "CIA": 10,
+            "Mossad": 3,
+            "MSS": 5,
+            "FSB": 2
+        },
+        "populism_risk": 25,
+        "budget_reward": 10,
+        "capital_reward": 3
+    },
+    "Egypt": {
+        "stability": 70,
+        "influence": {
+            "CIA": 8,
+            "Mossad": 15,
+            "MSS": 5,
+            "FSB": 2
+        },
+        "populism_risk": 20,
+        "budget_reward": 8,
+        "capital_reward": 4
+    },
+    "Canada": {
+        "stability": 85,
+        "influence": {
+            "CIA": 25,
+            "Mossad": 5,
+            "MSS": 5,
+            "FSB": 3
+        },
+        "populism_risk": 10,
+        "budget_reward": 14,
+        "capital_reward": 4
+    }
+}

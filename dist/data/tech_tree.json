@@ -1,0 +1,62 @@
+{
+    "Covert Encryption Protocols": {
+        "cost": 20,
+        "visibility_reduction": 5
+    },
+    "Deepfake Identity Systems": {
+        "cost": 30,
+        "visibility_reduction": 7
+    },
+    "Advanced Counter-Surveillance": {
+        "cost": 40,
+        "visibility_reduction": 10
+    },
+    "Quantum Communications": {
+        "cost": 50,
+        "visibility_reduction": 12
+    },
+    "Automated Cover Story Generators": {
+        "cost": 60,
+        "visibility_reduction": 14
+    },
+    "Embedded Field Operatives": {
+        "cost": 75,
+        "visibility_reduction": 16
+    },
+    "AI-Driven Disinformation": {
+        "cost": 90,
+        "visibility_reduction": 18
+    },
+    "Satellite Spoofing Technology": {
+        "cost": 100,
+        "visibility_reduction": 20
+    },
+    "Zero-Trust Internal Networks": {
+        "cost": 110,
+        "visibility_reduction": 22
+    },
+    "Global Data Laundering Rings": {
+        "cost": 125,
+        "visibility_reduction": 25
+    },
+    "Untraceable Financial Channels": {
+        "cost": 140,
+        "visibility_reduction": 27
+    },
+    "AI Threat Detection Override": {
+        "cost": 160,
+        "visibility_reduction": 30
+    },
+    "Real-Time Narrative Control": {
+        "cost": 180,
+        "visibility_reduction": 32
+    },
+    "Cognitive Manipulation Algorithms": {
+        "cost": 200,
+        "visibility_reduction": 35
+    },
+    "Perfect Operational Obfuscation": {
+        "cost": 250,
+        "visibility_reduction": 40
+    }
+}
